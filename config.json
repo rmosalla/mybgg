@@ -1,18 +1,18 @@
 {
     "project": {
-        "name": "mybgg",
-        "title": ""
+        "name": "Rmosalla Board Games Lists",
+        "title": "Rmosalla Board Games Lists"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "rmosalla",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "PDZUB3EOJP",
+        "api_key_search_only": "2c50b669335a0a5dcd9c8939f47256ca",
+        "index_name": "mybgg",
         "hits_per_page": 24
     }
 }
